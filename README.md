@@ -1,6 +1,6 @@
 # Python-Random-Forest-Titanic-Survivorship
 
-This project uses Random Forest to classify a passenger's survivorship as died or survived. It uses the same engineered data and features as the  **[Logistic Regression Titanic Survivorship](https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship)** project. 
+This project uses Random Forest to classify a passenger's survivorship as died or survived. It uses the same engineered data and features as the  **[Logistic Regression Titanic Survivorship](https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship)** project. The custom function rf_mod_assess() returns a dataframe of all of the classifcation report results for each of the 25 trials using Monte Carlo cross validation. 
 
 See also the **[KNN Titanic Survivorship](https://github.com/aaronmkwong/Python-KNN-Titanic-Survivorship)** project.
 
