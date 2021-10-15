@@ -4,4 +4,4 @@ This project uses Random Forest to classify a passenger's survivorship as died o
 
 See also the **[KNN Titanic Survivorship](https://github.com/aaronmkwong/Python-KNN-Titanic-Survivorship)** project.
 
-<img src="https://github.com/aaronmkwong/Python-Random-Forest-Titanic-Survivorship/blob/main/Other%20Files/summary_results_01.JPG" width="900" height="100">
+<img src="https://github.com/aaronmkwong/Python-Random-Forest-Titanic-Survivorship/blob/main/Other%20Files/summary_results_01.JPG" width="700" height="50">
