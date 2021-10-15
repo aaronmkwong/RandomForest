@@ -10,6 +10,6 @@ See also the **[KNN Titanic Survivorship](https://github.com/aaronmkwong/Python-
 
 ...
 
-<img src="https://github.com/aaronmkwong/Python-Random-Forest-Titanic-Survivorship/blob/main/Other%20Files/feature_importance_01.JPG" width="200" height="200">
+<img src="https://github.com/aaronmkwong/Python-Random-Forest-Titanic-Survivorship/blob/main/Other%20Files/feature_importance_01.JPG" width="400" height="400">
 
 ...
