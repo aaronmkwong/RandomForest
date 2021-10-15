@@ -18,4 +18,6 @@ The code can be viewed here: **[Titanic_Survivorship_Random_Forest_02.ipynb](htt
 
 <img src="https://github.com/aaronmkwong/Python-Random-Forest-Titanic-Survivorship/blob/main/Other%20Files/feature_importance_01.JPG" width="500" height="400">
 
-...
+**REFERENCES**
+
+James, Gareth, et al. (2017). *An Introduction to Statistical Learning* (1st ed.). New York: Springer.
