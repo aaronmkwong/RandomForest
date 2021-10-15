@@ -4,7 +4,7 @@ This project uses Random Forest to classify a passenger's survivorship as died o
 
 See also the **[KNN Titanic Survivorship](https://github.com/aaronmkwong/Python-KNN-Titanic-Survivorship)** project.
 
-**__Random Forest outperformed Logistic Regression and KNN by 2% and 1% respectively_**. 
+**_Random Forest outperformed Logistic Regression and KNN by 2% and 1% respectively_**. 
 
 <img src="https://github.com/aaronmkwong/Python-Random-Forest-Titanic-Survivorship/blob/main/Other%20Files/summary_results_01.JPG" width="750" height="75">
 
