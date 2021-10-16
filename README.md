@@ -12,8 +12,10 @@ The code can be viewed here: **[Titanic_Survivorship_Random_Forest_02.ipynb](htt
 
 <img src="https://github.com/aaronmkwong/Python-Random-Forest-Titanic-Survivorship/blob/main/Other%20Files/summary_results_01.JPG" width="750" height="75">
 
-As an extension of bagged decision trees, Random Forests samples the training dataset with replacement, but trees are constructed in a way that reduces the correlation
-between individual classifiers (Brownlee, 2021, p.93).
+Random Forests samples the training dataset with replacement (bagging), but trees are constructed in a way that reduces the correlation
+between individual classifiers (Brownlee, 2021, p.93) providing an improvement over Bagged Trees. Bagging (or Bootstrap Aggregation) takes multiple samples from the training dataset with replacement and trains a model for each sample, then averages the predictions of all of sub-models to obtain a final averaged prediction (Brownlee, 2021, p. 92).
+
+...
 
 <img src="https://github.com/aaronmkwong/Python-Random-Forest-Titanic-Survivorship/blob/main/Other%20Files/top_mid_worst_results_02.JPG" width="700" height="175">
 
