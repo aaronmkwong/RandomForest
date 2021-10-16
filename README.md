@@ -25,6 +25,6 @@ between individual classifiers (Brownlee, 2021, p.93) providing an improvement o
 
 **REFERENCES**
 
-Brownlee, Jason. (2021). *Machine Learning Mastery with Python: Understand Your Data, Create Accurate Models and Work Projects End-To-End* (v1.2 ed.). httpshttps://machinelearningmastery.com/machine-learning-with-python/
+Brownlee, Jason. (2021). *Machine Learning Mastery with Python: Understand Your Data, Create Accurate Models and Work Projects End-To-End* (v1.2 ed.). https://machinelearningmastery.com/machine-learning-with-python/
 
 James, Gareth, et al. (2017). *An Introduction to Statistical Learning* (1st ed.). New York: Springer.
