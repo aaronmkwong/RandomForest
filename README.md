@@ -22,4 +22,6 @@ The code can be viewed here: **[Titanic_Survivorship_Random_Forest_02.ipynb](htt
 
 **REFERENCES**
 
+Brownlee, Jason. (2021). *Machine Learning Mastery with Python: Understand Your Data, Create Accurate Models and Work Projects End-To-End* (v1.2 ed.). httpshttps://machinelearningmastery.com/machine-learning-with-python/
+
 James, Gareth, et al. (2017). *An Introduction to Statistical Learning* (1st ed.). New York: Springer.
