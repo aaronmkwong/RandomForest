@@ -12,8 +12,6 @@ The code can be viewed here: **[Titanic_Survivorship_Random_Forest_02.ipynb](htt
 
 <img src="https://github.com/aaronmkwong/Python-Random-Forest-Titanic-Survivorship/blob/main/Other%20Files/summary_results_01.JPG" width="750" height="75">
 
-**_82% accuracy_** was also confirmed using **_k-Fold cross validation_**, which uses random state 12 (see below) with 3 folds.  
-
 ...
 
 <img src="https://github.com/aaronmkwong/Python-Random-Forest-Titanic-Survivorship/blob/main/Other%20Files/top_mid_worst_results_02.JPG" width="700" height="175">
