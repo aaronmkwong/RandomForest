@@ -12,7 +12,7 @@ The code can be viewed here: **[Titanic_Survivorship_Random_Forest_02.ipynb](htt
 
 <img src="https://github.com/aaronmkwong/Python-Random-Forest-Titanic-Survivorship/blob/main/Other%20Files/summary_results_01.JPG" width="750" height="75">
 
-...
+To determine the feature importance the middle result random state 19 is used. 
 
 <img src="https://github.com/aaronmkwong/Python-Random-Forest-Titanic-Survivorship/blob/main/Other%20Files/top_mid_worst_results_02.JPG" width="700" height="175">
 
