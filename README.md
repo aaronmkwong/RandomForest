@@ -16,7 +16,7 @@ To determine the feature importance the middle result random state 19 is used.
 
 <img src="https://github.com/aaronmkwong/Python-Random-Forest-Titanic-Survivorship/blob/main/Other%20Files/top_mid_worst_results_02.JPG" width="700" height="175">
 
-Permutation Importance rather than Random Forest Feature Importance is used since the latter suffers from being computed on statistics derived from the training dataset (Scikit-Learn, 2021a).
+Permutation Importance rather than Random Forest Feature Importance is used since the latter suffers from being computed on statistics derived from the training dataset (Scikit-Learn, 2021a). The permutation feature importance is defined to be the decrease in a model score when a single feature value is randomly shuffled, which breaks the relationship between the feature and the target, thus the drop in the model score is indicative of how much the model depends on the feature (Scikit-Learn, 2021b). 
 
 <img src="https://github.com/aaronmkwong/Python-Random-Forest-Titanic-Survivorship/blob/main/Other%20Files/feature_importance_01.JPG" width="500" height="400">
 
