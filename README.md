@@ -26,3 +26,4 @@ Brownlee, Jason. (2021). *Machine Learning Mastery with Python: Understand Your 
 
 Scikit-Learn. (2021a, October 17). https://scikit-learn.org/stable/auto_examples/inspection/plot_permutation_importance.html#sphx-glr-auto-examples-inspection-plot-permutation-importance-py
 
+Scikit-Learn. (2021b, October 17). https://scikit-learn.org/stable/modules/permutation_importance.html#permutation-importance
