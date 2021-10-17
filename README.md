@@ -20,7 +20,7 @@ Permutation Importance rather than Random Forest Feature Importance is used sinc
 
 <img src="https://github.com/aaronmkwong/Python-Random-Forest-Titanic-Survivorship/blob/main/Other%20Files/feature_importance_01.JPG" width="500" height="400">
 
-Similar to the Logistic Regression Titanic Survivorship project, Male, PClass and Age are the most importance features and share the same rank position.
+Similar to the Logistic Regression Titanic Survivorship project, Male, PClass and Age are the most important features and share the same rank position.
 
 **REFERENCES**
 
