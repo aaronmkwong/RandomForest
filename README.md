@@ -16,10 +16,13 @@ To determine the feature importance the middle result random state 19 is used.
 
 <img src="https://github.com/aaronmkwong/Python-Random-Forest-Titanic-Survivorship/blob/main/Other%20Files/top_mid_worst_results_02.JPG" width="700" height="175">
 
-...
+Permutation Importance rathet than Random Forest Feature Importance is used since the latter suffers from being computed on statistics derived from the training dataset ()
 
 <img src="https://github.com/aaronmkwong/Python-Random-Forest-Titanic-Survivorship/blob/main/Other%20Files/feature_importance_01.JPG" width="500" height="400">
 
 **REFERENCES**
 
 Brownlee, Jason. (2021). *Machine Learning Mastery with Python: Understand Your Data, Create Accurate Models and Work Projects End-To-End* (v1.2 ed.). https://machinelearningmastery.com/machine-learning-with-python/
+
+Scikit-Learn. (2021a, October 17). https://scikit-learn.org/stable/auto_examples/inspection/plot_permutation_importance.html#sphx-glr-auto-examples-inspection-plot-permutation-importance-py
+
