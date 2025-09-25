@@ -1,4 +1,4 @@
-# Python-Random-Forest-Titanic-Survivorship
+# Random Forest
 
 This project uses Random Forests to classify a passenger's survivorship as died or survived. It uses the same engineered data and features as the  **[Logistic Regression Titanic Survivorship](https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship)** project. Random Forests samples the training dataset with replacement (bagging), but trees are constructed in a way that reduces the correlation between individual classifiers (Brownlee, 2021, p.93) providing an improvement over Bagged Trees. Bagging (or Bootstrap Aggregation) takes multiple samples from the training dataset with replacement and trains a model for each sample, then averages the predictions of all sub-models to obtain a final averaged prediction (Brownlee, 2021, p. 92). The custom function rf_mod_assess() returns a dataframe of all of the classifcation report results for each of the 25 trials using Monte Carlo cross validation.  
 
